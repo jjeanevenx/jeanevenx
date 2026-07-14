@@ -25,9 +25,8 @@ Bem-vindo ao meu perfil do GitHub! Sou apaixonado por tecnologia, IA e por encon
 
 ## 🚀 Projetos em Destaque
 
-- [monitor-mre-visto](https://github.com/jjeanevenx/monitor-mre-visto): Monitore e acompanhe status de vistos em consulados.  
-- [awesome-generative-ai](https://github.com/jjeanevenx/awesome-generative-ai): Recursos e ferramentas sobre IA generativa.  
-- [jeanevenx](https://github.com/jjeanevenx/jeanevenx): Meu site pessoal e portfólio.
+- [service--app-mobile-inflow](https://github.com/jjeanevenx/service--app-mobile-inflow)
+- [app--mobile-inflow](https://github.com/jjeanevenx/app--mobile-inflow)
 
 ---
 
