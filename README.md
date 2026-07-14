@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about technology, AI, and leveragin
 
 ## 🚀 Featured Projects
 
-- [monitor-mre-visto](https://github.com/jjeanevenx/monitor-mre-visto): Track and monitor consulate visa status efficiently.  
+- [monitor-mre-visto](https://github.com/jjeanevenx/service--app-mobile-inflow): Track and monitor consulate visa status efficiently.  
 - [awesome-generative-ai](https://github.com/jjeanevenx/awesome-generative-ai): Curated resources and tools on generative AI.  
 - [jeanevenx](https://github.com/jjeanevenx/jeanevenx): My personal site and portfolio.
 
