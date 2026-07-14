@@ -25,8 +25,8 @@ Welcome to my GitHub profile! I'm passionate about technology, AI, and leveragin
 
 ## 🚀 Featured Projects
 
-- [monitor-mre-visto](https://github.com/jjeanevenx/service--app-mobile-inflow)
-- [awesome-generative-ai](https://github.com/jjeanevenx/app--mobile-inflow)
+- [service--app-mobile-inflow](https://github.com/jjeanevenx/service--app-mobile-inflow)
+- [app--mobile-inflow](https://github.com/jjeanevenx/app--mobile-inflow)
 
 ---
 
